@@ -14,18 +14,20 @@ printf("%d \n",a);
     return 0;
 }
 // way 2
-//include <stdio.h>
-//int main(){
-//int a = 5;
-//int b = 10;
-//printf("%d \n",a);
-//printf("%d \n",b);
-//int temp;
-//temp = a; //temp=5
-//a = b;    //a=10  
-//b = temp; //b=5
-//printf("%d \n",a);            
-//printf("%d \n",b);
-//    return 0;                 
+/*
+include <stdio.h>
+int main(){
+int a = 5;
+int b = 10;
+printf("%d \n",a);
+printf("%d \n",b);
+int temp;
+temp = a; //temp=5
+a = b;    //a=10  
+b = temp; //b=5
+printf("%d \n",a);            
+printf("%d \n",b);
+   return 0;                 
 
-//}
+}
+*/
